@@ -23,4 +23,7 @@ In development
 
 Used 'npm init react-app'\
 MUI Joy UI and their table component\
-data from Stack Overflow API [https://api.stackexchange.com/docs/tags], in case of too many requests app will use saved response from src/fallbackData.json
+data from Stack Overflow API [https://api.stackexchange.com/docs/tags],
+in case of too many requests app will use saved response from src/fallbackData.json
+
+![index](https://github.com/Kopcin/stackoverflow-tag-browser/assets/63099465/6827e1e3-a81d-407f-b2c3-2414db6d8074)
